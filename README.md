@@ -1,2 +1,2 @@
-# SCS2208-Tutorial04_JS-Part2
-Created to upload html,css,js files created to implement questions in practical session 04
+# SCS2208-Tutorials
+Created to upload SCS2208-Tutorials
